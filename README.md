@@ -2,4 +2,6 @@
 
 Projetos:
 
-* Piscar um led
+* Piscar um LED
+* Acender o LED usando um botão
+* Portas lógicas 'E' e 'OU'
